@@ -1,0 +1,39 @@
+li {
+list-style-type: none;
+border: 2px dashed #1C6EA4;
+font-display: 20px;
+
+}
+input {
+    border: 1px solid #dadada;
+    height: 70px;
+    width: 90%;
+    padding: 30px 100px;
+    vertical-align: bottom;
+    box-sizing: border-box;
+   
+    
+}
+button {
+    border: 1px solid #dadada;
+    height: 70px;
+    width: 7%;
+    padding: 10px 30px;
+    vertical-align: bottom;
+    box-sizing: border-box;
+    font-size: 45px;
+    font-display: central;
+    
+}
+.past {
+background-color: aqua;
+}
+.present {
+    background-color: blueviolet;
+}
+.future {
+background-color: blue;
+}
+.li {
+  
+}
